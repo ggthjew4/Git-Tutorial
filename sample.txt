@@ -6,3 +6,4 @@ commit 記錄索引的狀態
 新增rebase內容2-old branch
 新增rebase內容3-new branch
 新增rebase內容4-new branch
+新增fetch 內容
