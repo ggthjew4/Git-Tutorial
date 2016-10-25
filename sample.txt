@@ -3,4 +3,4 @@ commit 記錄索引的狀態
 新增衝突點2
 新增衝突點3-new branch
 新增rebase內容1-old branch
-新增rebase內容2-old branch
+新增rebase內容2-new branch
